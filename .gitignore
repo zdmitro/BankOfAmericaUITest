@@ -1,0 +1,7 @@
+*.iml
+target/
+.idea/
+node_modules/
+*.gitkeep
+.DS_Store
+/javacore/production
